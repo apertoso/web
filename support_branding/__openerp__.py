@@ -22,7 +22,7 @@
     "name": "Support branding",
     "summary": "Adds your branding to an Odoo instance",
     "category": "Dependecy/Hidden",
-    "version": "8.0.2.0.0",
+    "version": "9.0.2.0.0",
     "license": "AGPL-3",
     "author": "Therp BV,Odoo Community Association (OCA)",
     "website": 'http://therp.nl',
@@ -36,5 +36,5 @@
         "data/ir_config_parameter.xml",
         'views/qweb.xml',
     ],
-    'installable': False,
+    'installable': True,
 }

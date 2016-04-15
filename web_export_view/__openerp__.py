@@ -35,6 +35,6 @@
     'qweb': [
         'static/src/xml/web_export_view_template.xml',
     ],
-    'installable': False,
+    'installable': True,
     'auto_install': False,
 }
